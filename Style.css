@@ -1,3 +1,33 @@
 img{
     border-radius: 50%;
 }
+p{
+    color: darkslategray;
+    font-size: 17px;
+}
+h1{
+    font-size: 30px;
+    color: darkblue;
+    text-align: end;
+}
+h2{
+    font-size: 24px;
+    background-color: lightskyblue;
+    color: darkblue;
+}
+a:visited{
+    color: darkblue;
+    text-decoration: none;
+}
+a:hover{
+    color: lightskyblue;
+    text-decoration: underline;
+}
+a{
+    color: darkblue;
+    text-decoration: none;
+}
+#copy{
+    text-align: 
+    center;
+}
